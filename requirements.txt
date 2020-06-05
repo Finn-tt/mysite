@@ -9,7 +9,7 @@ click==6.7
 conda==4.3.16
 cryptography==2.3.1
 cssselect==1.0.3
-Django==1.11.13
+Django==1.11.29
 django-ranged-response==0.2.0
 enum34==1.1.6
 Flask==1.0.2
