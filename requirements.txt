@@ -21,7 +21,7 @@ ipaddress==1.0.22
 itchat==1.2.32
 itsdangerous==0.24
 jieba==0.39
-Jinja2==2.10
+Jinja2==2.11.3
 lxml==4.2.1
 MarkupSafe==1.0
 msgpack==0.5.6
