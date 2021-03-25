@@ -44,7 +44,7 @@ pypng==0.0.18
 PyQRCode==1.2.1
 python-nmap==0.6.1
 pytz==2018.4
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 requests==2.18.4
 ruamel.ordereddict==0.4.13
