@@ -55,7 +55,7 @@ singledispatch==3.4.0.3
 six==1.11.0
 tornado==5.1
 u-msgpack-python==2.5.0
-urllib3==1.22
+urllib3==1.26.5
 uwsgitop==0.10
 wechat-sender==0.1.4
 Werkzeug==0.14.1
