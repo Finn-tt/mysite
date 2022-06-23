@@ -49,7 +49,7 @@ pyzmq==17.1.2
 requests==2.18.4
 ruamel.ordereddict==0.4.13
 ruamel.yaml==0.15.37
-salt==2018.3.2
+salt==3003.3
 simplejson==3.16.0
 singledispatch==3.4.0.3
 six==1.11.0
